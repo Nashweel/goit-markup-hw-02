@@ -62,7 +62,8 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.nav-link:hover .nav-link:focus {
+.nav-link:hover,
+.nav-link:focus {
   color: var(--accent-color);
 }
 
