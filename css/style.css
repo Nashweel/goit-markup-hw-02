@@ -39,6 +39,7 @@ ul {
 
 .header-logo {
   color: #2196f3;
+  
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
@@ -114,6 +115,8 @@ ul {
 /* --------------------Секция Advantage------------------ */
 
 .advantage-title {
+  color: var(--title-text-color);
+
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -123,6 +126,7 @@ ul {
 
 .advantage-text {
   color: var(--primary-text-color);
+
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -255,6 +259,7 @@ ul {
 
 .footer-logo {
   color: #2196f3;
+
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
@@ -281,6 +286,7 @@ ul {
 
 .contact-item {
   color: var(--footer-link-color);
+
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
