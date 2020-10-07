@@ -177,10 +177,8 @@ body {
   letter-spacing: 0.03em;
 }
 
-.team-list {
+.team-item {
   background-color: var(--primary-white-color);
-
-  width: 270px;
 }
 
 .team-member {
@@ -254,8 +252,6 @@ body {
 
 .portfolio-item {
   color: var(--primary-white-color);
-
-  width: 370px;
 }
 
 .portfolio-title {
